@@ -35,7 +35,7 @@
         "descriptionVariable" : "VALUEOF(NQ_SESSION.CD_Sample_Sales_Cust_Geo_Codes_C64__Latitude)"
       }
     }, {
-      "name" : "C65  Longitude",
+      "name" : "Venkat_ABC",
       "sourceLogicalColumn" : "logicalColumn:Sample App.Customers (Snowflakes).C65  Longitude",
       "localization" : {
         "localizationKey" : "C65  Longitude",
