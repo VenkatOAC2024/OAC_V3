@@ -27,7 +27,7 @@
         "descriptionVariable" : "VALUEOF(NQ_SESSION.CD_Sample_Sales_Cust_Geo_Codes_C63__Geo_Ctry_State_City_Name)"
       }
     }, {
-      "name" : "C64  Latitude",
+      "name" : "C64  Latitude_Venkat",
       "sourceLogicalColumn" : "logicalColumn:Sample App.Customers (Snowflakes).C64  Latitude",
       "localization" : {
         "localizationKey" : "C64  Latitude",
